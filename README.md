@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **be a full stack developer**
 
-- 🌱 I’m currently learning **python,SQL and git**
+- 🌱 I’m currently learning **python, SQL and git**
 
-- 💬 Ask me about **html,css,javascript**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPTt**
 
 - 📫 How to reach me **tato6265@gmail.com**
 
